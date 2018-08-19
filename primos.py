@@ -1,4 +1,4 @@
-import getch
+
 primos = []
 flag = 1
 cantPrimos = 0
